@@ -1,0 +1,59 @@
+.glowny
+{
+    margin-top: 200px;
+    
+}
+
+.s1
+{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    background-color: rgb(35, 228, 45);
+}
+.s2
+{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    color: rgb(255, 0, 0);
+}
+.s3
+{
+    position: absolute;
+    top: 100px;
+    left: 480px;
+    font-size: larger;
+    color: aqua;
+}
+a:visited
+{
+    color: rgb(90, 160, 240);
+}
+a:link
+{
+    color: rgb(233, 250, 0);
+}
+a:active
+{
+    color: blue;
+}
+a:hover
+{
+    color: rgb(0, 255, 13);
+}
+.s4
+{
+    position: absolute;
+    top: 100px;
+    left: 650px;
+}
+.s5
+{
+    position: absolute;
+    top: 100px;
+    left: 760px;
+    font-size: medium;
+    background-color: rgb(205, 253, 255);
+    color: rgb(253, 0, 198);
+}
